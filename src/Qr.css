@@ -1,0 +1,13 @@
+.decodeSection{
+   text-align: center;
+}
+.qrReader{
+    width: 500px;
+    max-height: 450px !important;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.createQrCode{
+    text-align: center;
+}
